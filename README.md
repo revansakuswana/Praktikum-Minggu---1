@@ -4,4 +4,4 @@ Nama    :Revansa Helsa Kuswana <br />
 NIM     :120140096 <br />
 Kelas   :B 
 </pre>
-Repository ini berisi latihan dan tugas dari praktikum pemrogaman web.
+Repository ini berisi latihan dan tugas dari praktikum pemrogaman web dari minggu 1-6 yang saya simpan melalui branch.
